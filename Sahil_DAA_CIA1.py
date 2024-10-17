@@ -34,5 +34,5 @@ if __name__ == '__main__':
     addEdge(4, 3, -1)
     addEdge(5, 4, 1)
 
-    BellmanFord(0)
+    BellmanFord(0)   bye
 
